@@ -49,12 +49,29 @@
 			<artifactId>wsdl</artifactId>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/eviware/maven-soapui-plugin -->
+		<!-- https://mvnrepository.com/artifact/wsdl4j/wsdl4j -->
 		<dependency>
-			<groupId>eviware</groupId>
-			<artifactId>maven-soapui-plugin</artifactId>
-			<version>2.5.1-touk-3</version>
+			<groupId>wsdl4j</groupId>
+			<artifactId>wsdl4j</artifactId>
+			<version>1.6.2</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>javax.servlet-api</artifactId>
+			<version>3.1.0</version>
+			<scope>provided</scope>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.github.redfish4ktc.soapui/soapui -->
+		<dependency>
+			<groupId>com.github.redfish4ktc.soapui</groupId>
+			<artifactId>soapui</artifactId>
+			<version>4.0.1.0</version>
+		</dependency>
+
+
+
+
 
 
 

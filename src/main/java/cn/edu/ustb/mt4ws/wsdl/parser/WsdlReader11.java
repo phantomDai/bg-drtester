@@ -93,7 +93,6 @@ public class WsdlReader11 extends AbstractWsdlReader {
 	 * 
 	 * @param WsdlURI
 	 * @param bop
-	 * @param direct
 	 *            true:input; false:output
 	 * @return
 	 */
