@@ -1,0 +1,14 @@
+2019-07-03 17:09:39,714 WARN  [SoapUI] Missing folder [D:\IDEAProjects\bg-drtester\.\ext] for external libraries
+2019-07-03 17:09:39,715 INFO  [DefaultSoapUICore] Creating new settings at [C:\Users\Administrator\soapui-settings.xml]
+2019-07-03 17:09:40,187 INFO  [SchemaUtils] Loading schema types from [http://localhost:8084/services/acms?wsdl]
+2019-07-03 17:09:40,187 INFO  [SchemaUtils] Getting schema http://localhost:8084/services/acms?wsdl
+2019-07-03 17:09:40,394 INFO  [SchemaUtils] Loading schema types from [http://localhost:8084/services/acms?wsdl]
+2019-07-03 17:09:40,394 INFO  [SchemaUtils] Getting schema http://localhost:8084/services/acms?wsdl
+2019-07-03 17:09:40,456 INFO  [SchemaUtils] Loading schema types from [http://localhost:8084/services/acms?wsdl]
+2019-07-03 17:09:40,456 INFO  [SchemaUtils] Getting schema http://localhost:8084/services/acms?wsdl
+2019-07-03 17:09:40,519 INFO  [SchemaUtils] Loading schema types from [http://localhost:8084/services/acms?wsdl]
+2019-07-03 17:09:40,519 INFO  [SchemaUtils] Getting schema http://localhost:8084/services/acms?wsdl
+2019-07-03 17:09:40,574 INFO  [SchemaUtils] Loading schema types from [http://localhost:8084/services/acms?wsdl]
+2019-07-03 17:09:40,574 INFO  [SchemaUtils] Getting schema http://localhost:8084/services/acms?wsdl
+2019-07-03 17:09:40,646 INFO  [SchemaUtils] Loading schema types from [http://localhost:8084/services/acms?wsdl]
+2019-07-03 17:09:40,646 INFO  [SchemaUtils] Getting schema http://localhost:8084/services/acms?wsdl
